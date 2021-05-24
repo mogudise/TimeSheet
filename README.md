@@ -23,7 +23,7 @@ Without this what will the boss think....
 * Visual Studio Code
 * Notepad
 * Edge
-* Chrome onlinee
+* Chrome online 
 
 # Summary:
 You can bring friend to the training but it is good if they bring phones to communicate with somebody else. 
