@@ -7,15 +7,15 @@ Without this what will the boss think..
 
 
 ## Time-sheet Feature:
-
-Time Management
-Commmentary of adjusting the time your chose
+* Time Management
+* Commmentary of adjusting the time your chose
 
 # Requirement
-Windows 10 
-MAC OS 
-Ubuntu Version 3.6 
+* Windows 10 
+* MAC OS 
+* Ubuntu Version 3.6 
 
+# Summary:
 You can bring friend to the training but it is good if they bring phones to communicate with somebody else. 
 
  
