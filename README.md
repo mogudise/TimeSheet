@@ -6,7 +6,7 @@ Without this what will the boss think..
 ![image](https://user-images.githubusercontent.com/75079699/118091439-1e1ecc80-b3cb-11eb-8dfe-653070083502.png)
 
 
-## Time-sheet Feature:
+# Time-sheet Feature:
 * Time Management
 * Commmentary of adjusting the time your chose
 
